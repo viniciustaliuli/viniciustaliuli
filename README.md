@@ -30,19 +30,12 @@ Meu foco é consolidar a intersecção entre tecnologia e comunicação, aprimor
 
 ### Tecnologias e Ferramentas Utilizadas
 
-<div inline="javascript">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="PHP" />
-  <img src="https://shields.io" alt="MySQL" />
-</div>
+![Python](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![PHP](https://shields.io) ![MySQL](https://shields.io)
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="180em" src="https://vercel.app[viniciustaliuli]&show_icons=true&theme=dark&include_all_commits=true" />
-  <img height="180em" src="https://vercel.app[viniciustaliuli]&layout=compact&theme=dark" />
-</p>
+![Estatísticas do GitHub](https://vercel.app) 
+
+![Linguagens Mais Usadas](https://vercel.app)
