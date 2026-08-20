@@ -3,13 +3,13 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=28&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=OI%2C+EU+SOU+O+VINICIUS" alt="OI, EU SOU O VINICIUS">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=28&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=OI%2C+EU+SOU+O+VINICIUS" alt="Oi, eu sou o Vinicius!">
 </a>
 
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=22&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=DESENVOLVIMENTO+DE+SISTEMAS" alt="DESENVOLVIMENTO DE SISTEMAS">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=22&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=DESENVOLVIMENTO+DE+SISTEMAS" alt="Desen">
 </a>
 
 ### SENAI Cruzeiro
