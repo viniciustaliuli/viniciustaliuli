@@ -65,7 +65,7 @@ Estou sempre buscando aprender coisas novas e melhorar meus projetos.
   <img src="https://img.shields.io/badge/Instagram-0066CC?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<br><br>
+<br>
 
 <a href="https://github.com/viniciustaliuli">
   <img src="https://img.shields.io/badge/GitHub-0066CC?style=for-the-badge&logo=github&logoColor=white">
