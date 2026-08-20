@@ -1,82 +1,48 @@
-<div align="center">
+# Vinicius Rodrigues Taliuli
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0066CC&height=70&section=header&text=&fontSize=0">
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no SENAI, atualmente com 17 anos, com forte interesse e foco na área de Marketing. Meu objetivo é unir os conhecimentos técnicos de tecnologia, dados e desenvolvimento de software com estratégias de marketing digital, criação de conteúdo e análise de mercado para construir soluções inovadoras e de alto impacto.
 
-<br>
+---
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=28&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Vinicius%21" alt="Oi, eu sou o Vinicius!">
-</a>
+### Formação e Aprendizado
 
-<br>
+* **Estudante de ADS no SENAI**, desenvolvendo competências em lógica, banco de dados e engenharia de software aplicadas à otimização de processos.
+* **Estudo contínuo em Marketing**, focado em estratégias digitais, comportamento do consumidor e análise de métricas de crescimento.
+* **Cursos online** de fundamentos de tecnologia, análise de dados e introdução à Inteligência Artificial aplicada aos negócios.
+* **Projetos práticos** integrando ferramentas modernas de desenvolvimento com visões comerciais e de posicionamento de marca.
 
-*Desenvolvimento de Sistemas*
-<br>
-🏓
+---
 
-### SENAI Cruzeiro
+### Habilidades Técnicas e Estratégicas
 
-<br>
+* **Marketing Digital & Estratégia**, com foco em entender o mercado e aplicar tecnologia para potencializar o alcance de produtos e marcas.
+* **Desenvolvimento e Lógica**, com compreensão de como sistemas e dados podem ser usados para automatizar e otimizar campanhas.
+* **Gerenciamento de banco de dados (MySQL)**, voltado para a estruturação e análise de dados para tomadas de decisão.
+* **Controle de versão** e organização de projetos utilizando fluxos de trabalho com Git e GitHub.
 
-`HTML` • `CSS` • `PHP` • `SQL`
+---
 
+### Objetivo Profissional
+
+Meu foco é consolidar a intersecção entre tecnologia e comunicação, aprimorando minha capacidade de resolver problemas complexos através do marketing estratégico. Busco oportunidades para ingressar no mercado profissional, aplicar meus conhecimentos em projetos reais e construir uma carreira de destaque voltada para a área de Marketing.
+
+---
+
+### Tecnologias e Ferramentas Utilizadas
+
+<div inline="javascript">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="PHP" />
+  <img src="https://shields.io" alt="MySQL" />
 </div>
 
-<div align="center">
+---
 
-## ⚡ Sobre mim
+### 📊 Estatísticas do GitHub
 
-</div>
-
-Estudante de **Desenvolvimento de Sistemas** no **SENAI Cruzeiro**.
-
-Curto jogos, filmes e livros.
-
-<div align="center">
-
-## 💻 Tecnologias
-
-<br>
-
-![HTML5](https://img.shields.io/badge/HTML5-0066CC?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0066CC?style=for-the-badge\&logo=css3\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-0066CC?style=for-the-badge\&logo=php\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0066CC?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0066CC?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0066CC?style=for-the-badge\&logo=github\&logoColor=white)
-
-</div>
-
-<div align="center">
-
-## 📡 Contato
-
-<br>
-
-<a href="https://www.instagram.com/vinicius.taliuli/">
-  <img src="https://img.shields.io/badge/Instagram-0066CC?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<br>
-
-<a href="https://github.com/viniciustaliuli">
-  <img src="https://img.shields.io/badge/GitHub-0066CC?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
-<div align="center">
-
-### 🔷 Obrigado por visitar meu perfil!
-
-`💻 • 🎮 • 🚀`
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=viniciustaliuli\&color=0066CC\&style=for-the-badge\&label=VISITAS+NO+PERFIL)
-
-<br>
-
-<img src="vinlandsagaa.jpg" width="100%">
-
-</div>
+<p align="left">
+  <img height="180em" src="https://vercel.app[viniciustaliuli]&show_icons=true&theme=dark&include_all_commits=true" />
+  <img height="180em" src="https://vercel.app[viniciustaliuli]&layout=compact&theme=dark" />
+</p>
