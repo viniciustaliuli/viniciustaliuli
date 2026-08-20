@@ -1,15 +1,17 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0066CC&height=70&section=header&text=&fontSize=0">
+
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=28&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Vinicius" alt="Oi, eu sou o Vinicius!">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=28&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=OI%2C+EU+SOU+O+VINICIUS" alt="OI, EU SOU O VINICIUS">
 </a>
 
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=22&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+sistemas" alt="Desenvolvimento de sistemas">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=22&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=DESENVOLVIMENTO+DE+SISTEMAS" alt="DESENVOLVIMENTO DE SISTEMAS">
 </a>
 
 ### SENAI Cruzeiro
@@ -65,7 +67,7 @@ Estou sempre buscando aprender coisas novas e melhorar meus projetos.
   <img src="https://img.shields.io/badge/Instagram-0066CC?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<br>
+<br><br>
 
 <a href="https://github.com/viniciustaliuli">
   <img src="https://img.shields.io/badge/GitHub-0066CC?style=for-the-badge&logo=github&logoColor=white">
@@ -85,7 +87,7 @@ Estou sempre buscando aprender coisas novas e melhorar meus projetos.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=viniciustaliuli\&color=0066CC\&style=for-the-badge\&label=VISITAS+NO+PERFIL)
 
-<br>
+<br><br>
 
 <img src="vinlandsagaa.jpg" width="100%">
 
