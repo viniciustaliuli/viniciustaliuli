@@ -28,10 +28,9 @@
 
 </div>
 
-Sou estudante de **Desenvolvimento de Sistemas** no **SENAI Cruzeiro**.
+Estudante de **Desenvolvimento de Sistemas** no **SENAI Cruzeiro**.
 
-Gosto de programação, tecnologia e jogos.
-Estou sempre buscando aprender coisas novas e melhorar meus projetos.
+Curto jogos, filmes e livros.
 
 <div align="center">
 
