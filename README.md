@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔷 VINICIUS TALIULI
+# Oi, eu sou o Vinicius!
 
 ### Desenvolvimento de Sistemas
 
@@ -9,6 +9,10 @@
 <br>
 
 `HTML` • `CSS` • `PHP` • `SQL`
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=viniciustaliuli\&color=0066CC\&style=for-the-badge\&label=VISITAS+NO+PERFIL)
 
 </div>
 
@@ -24,22 +28,6 @@ Sou estudante de **Desenvolvimento de Sistemas** no **SENAI Cruzeiro**.
 
 Gosto de programação, tecnologia e jogos.
 Estou sempre buscando aprender coisas novas e melhorar meus projetos.
-
----
-
-<div align="center">
-
-## 🚀 Atualmente
-
-</div>
-
-💻 Criando projetos para praticar programação
-
-📚 Estudando desenvolvimento de sistemas
-
-🐾 Trabalhando em projetos como o **PetShop**
-
-🌐 Criando páginas e sites com **HTML e CSS**
 
 ---
 
@@ -69,9 +57,15 @@ Estou sempre buscando aprender coisas novas e melhorar meus projetos.
 
 <br>
 
-📷 **Instagram:** [@vinicius.taliuli](https://www.instagram.com/vinicius.taliuli/)
+<a href="https://www.instagram.com/vinicius.taliuli/">
+  <img src="https://img.shields.io/badge/Instagram-0066CC?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
-💻 **GitHub:** [Vinicius Taliuli](https://github.com/viniciustaliuli)
+<br><br>
+
+<a href="https://github.com/viniciustaliuli">
+  <img src="https://img.shields.io/badge/GitHub-0066CC?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
