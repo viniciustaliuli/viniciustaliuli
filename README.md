@@ -37,12 +37,3 @@ Meu foco é consolidar a intersecção entre tecnologia e comunicação, aprimor
   <img src="https://shields.io" alt="PHP" />
   <img src="https://shields.io" alt="MySQL" />
 </p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://vercel.app" alt="Status do Github" />
-  <img height="180em" src="https://vercel.app" alt="Linguagens Mais Usadas" />
-</p>
