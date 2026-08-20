@@ -5,7 +5,7 @@ Sou estudante de **Desenvolvimento de Sistemas no SENAI Cruzeiro** e gosto de ap
 ## 🚀 Sobre mim
 
 * 🎓 Estudante de Desenvolvimento de Sistemas no **SENAI Cruzeiro**
-* 💻 Gosto de programação
+* 💻 Gosto de programação e marketing
 * 🌱 Sempre buscando aprender coisas novas
 * 🎮 Gosto de jogos, filmes, livros e tecnologia
 
