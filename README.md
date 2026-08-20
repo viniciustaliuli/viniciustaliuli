@@ -85,7 +85,7 @@ Estou sempre buscando aprender coisas novas e melhorar meus projetos.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=viniciustaliuli\&color=0066CC\&style=for-the-badge\&label=VISITAS+NO+PERFIL)
 
-<br><br>
+<br>
 
 <img src="vinlandsagaa.jpg" width="100%">
 
