@@ -1,6 +1,10 @@
 <div align="center">
 
-# Oi, eu sou o Vinicius!
+<img src="vinlandsaga.jpg" width="100%">
+
+<br>
+
+# 🔷 VINICIUS TALIULI
 
 ### Desenvolvimento de Sistemas
 
@@ -24,9 +28,10 @@
 
 </div>
 
-Estudante de **Desenvolvimento de Sistemas** no **SENAI Cruzeiro**.
+Sou estudante de **Desenvolvimento de Sistemas** no **SENAI Cruzeiro**.
 
-Curto programação, tecnologia, filmes, livros e jogos.
+Gosto de programação, tecnologia e jogos.
+Estou sempre buscando aprender coisas novas e melhorar meus projetos.
 
 ---
 
@@ -60,7 +65,7 @@ Curto programação, tecnologia, filmes, livros e jogos.
   <img src="https://img.shields.io/badge/Instagram-0066CC?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<br>
+<br><br>
 
 <a href="https://github.com/viniciustaliuli">
   <img src="https://img.shields.io/badge/GitHub-0066CC?style=for-the-badge&logo=github&logoColor=white">
