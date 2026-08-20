@@ -1,4 +1,4 @@
-# Vinicius Rodrigues Taliuli
+# Vinicius Taliuli
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no SENAI, atualmente com 17 anos, com forte interesse e foco na área de Marketing. Meu objetivo é unir os conhecimentos técnicos de tecnologia, dados e desenvolvimento de software com estratégias de marketing digital, criação de conteúdo e análise de mercado para construir soluções inovadoras e de alto impacto.
 
