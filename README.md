@@ -66,7 +66,7 @@ Curto filmes, livros e jogos!
   <img src="https://img.shields.io/badge/Instagram-0066CC?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<br><br>
+<br>
 
 <a href="https://github.com/viniciustaliuli">
   <img src="https://img.shields.io/badge/GitHub-0066CC?style=for-the-badge&logo=github&logoColor=white">
@@ -82,12 +82,11 @@ Curto filmes, livros e jogos!
 
 `💻 • 🎮 • 🚀`
 
-<br><br>
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=viniciustaliuli\&color=0066CC\&style=for-the-badge\&label=VISITAS+NO+PERFIL)
 
-<br><br>
-
+<br>
 <img src="vinlandsagaa.jpg" width="100%">
 
 </div>
