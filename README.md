@@ -1,4 +1,4 @@
-# Vinicius Taliuli
+# Vinicius Rodrigues Taliuli
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no SENAI, atualmente com 17 anos, com forte interesse e foco na área de Marketing. Meu objetivo é unir os conhecimentos técnicos de tecnologia, dados e desenvolvimento de software com estratégias de marketing digital, criação de conteúdo e análise de mercado para construir soluções inovadoras e de alto impacto.
 
@@ -30,12 +30,19 @@ Meu foco é consolidar a intersecção entre tecnologia e comunicação, aprimor
 
 ### Tecnologias e Ferramentas Utilizadas
 
-![Python](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![PHP](https://shields.io) ![MySQL](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="PHP" />
+  <img src="https://shields.io" alt="MySQL" />
+</p>
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://vercel.app) 
-
-![Linguagens Mais Usadas](https://vercel.app)
+<p align="left">
+  <img height="180em" src="https://vercel.app" alt="Status do Github" />
+  <img height="180em" src="https://vercel.app" alt="Linguagens Mais Usadas" />
+</p>
