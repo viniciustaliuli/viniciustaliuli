@@ -31,9 +31,9 @@
 
 </div>
 
-Estudante de **Desenvolvimento de Sistemas** no **SENAI Cruzeiro**.
-
-Curto filmes, livros e jogos!
+*Curto filmes, livros e jogos!*
+<br>
+🎴
 
 ---
 
