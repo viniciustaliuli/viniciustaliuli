@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá! Eu sou Vinicius 👋
 
-<!--
-**viniciustaliuli/viniciustaliuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Desenvolvimento de Sistemas no SENAI Cruzeiro** e gosto de aprender sobre programação e tecnologia.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Estudante de Desenvolvimento de Sistemas no **SENAI Cruzeiro**
+* 💻 Gosto de programação
+* 🌱 Sempre buscando aprender coisas novas
+* 🎮 Gosto de jogos, filmes, livros e tecnologia
+
+## 📫 Contato
+
+* GitHub: [Vinicius Taliuli](https://github.com/viniciustaliuli)
+* Instagram: [@vinicius.taliuli](https://www.instagram.com/vinicius.taliuli/)
