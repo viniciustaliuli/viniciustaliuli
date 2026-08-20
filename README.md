@@ -5,15 +5,14 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=28&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Vinicius!" alt="Oi, eu sou o Vinicius!">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=28&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Vinicius%21" alt="Oi, eu sou o Vinicius!">
 </a>
 
 <br>
 
-*💻 Estudante de Desesenvolvimento de Sistemas*
-<br>
-🏓
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=22&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+Sistemas" alt="Desenvolvimento de Sistemas">
+</a>
 
 ### SENAI Cruzeiro
 
@@ -23,19 +22,16 @@
 
 </div>
 
----
-
 <div align="center">
 
 ## ⚡ Sobre mim
 
 </div>
 
-*Curto filmes, livros e jogos!*
-<br>
-🎴
+Sou estudante de **Desenvolvimento de Sistemas** no **SENAI Cruzeiro**.
 
----
+Gosto de programação, tecnologia e jogos.
+Estou sempre buscando aprender coisas novas e melhorar meus projetos.
 
 <div align="center">
 
@@ -51,8 +47,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-0066CC?style=for-the-badge\&logo=github\&logoColor=white)
 
 </div>
-
----
 
 <div align="center">
 
@@ -72,8 +66,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ### 🔷 Obrigado por visitar meu perfil!
@@ -85,6 +77,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=viniciustaliuli\&color=0066CC\&style=for-the-badge\&label=VISITAS+NO+PERFIL)
 
 <br>
+
 <img src="vinlandsagaa.jpg" width="100%">
 
 </div>
