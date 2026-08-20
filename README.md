@@ -44,13 +44,6 @@ Meu foco é consolidar a intersecção entre tecnologia e comunicação, aprimor
 
 Busco evoluir constantemente como desenvolvedor, aprimorando minhas habilidades em programação e construindo projetos cada vez mais eficientes, organizados e completos. Tenho o objetivo de me especializar na área de desenvolvimento e marketing, criando soluções seguras, escaláveis e bem estruturadas.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-</p>
-
 ---
 
 <p align="left">
