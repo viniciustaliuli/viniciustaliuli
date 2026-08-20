@@ -4,19 +4,15 @@
 
 <br>
 
-# 🔷 VINICIUS TALIULI
+# <span style="color:#0066CC">OI, EU SOU O VINICIUS</span>
 
-### Desenvolvimento de Sistemas
+### 🔷 Desenvolvimento de Sistemas
 
 **SENAI Cruzeiro**
 
 <br>
 
 `HTML` • `CSS` • `PHP` • `SQL`
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=viniciustaliuli\&color=0066CC\&style=for-the-badge\&label=VISITAS+NO+PERFIL)
 
 </div>
 
@@ -80,5 +76,13 @@ Estou sempre buscando aprender coisas novas e melhorar meus projetos.
 ### 🔷 Obrigado por visitar meu perfil!
 
 `💻 • 🎮 • 🚀`
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=viniciustaliuli\&color=0066CC\&style=for-the-badge\&label=VISITAS+NO+PERFIL)
+
+<br><br>
+
+<img src="vinlandsagaa.jpg" width="100%">
 
 </div>
